@@ -1,6 +1,4 @@
-# React + Vite
-
-## Projet todo list React Vite Node
+# Todo list React + Vite
 
 Utilisation de Vite pour un projet rapide.
 
