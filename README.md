@@ -10,3 +10,16 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Projet todo list React Vite Node
+
+Utilisation de Vite pour un projet rapide.
+
+- Création du projet :
+  --npm create vite@latest my-todo-liust --template react
+  --npm install
+- Installation des icons ( https://react-icons.github.io/react-icons/ ) :
+  --npm install react-icons --save
+- Lancement du projet :
+  -- npm run dev
