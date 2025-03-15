@@ -25,3 +25,7 @@ Utilisation de Vite pour un projet rapide.
   
 - Lancement du projet :
   -npm run dev
+
+- Création du projet : 
+    - npm create vite@latest my-todo-liust --template react
+    - npm install
